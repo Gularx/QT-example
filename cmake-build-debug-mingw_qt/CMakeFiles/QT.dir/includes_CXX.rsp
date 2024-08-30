@@ -1,0 +1,1 @@
+-I"D:/software/CLionProjects/QT/cmake-build-debug-mingw_qt/QT_autogen/include" -isystem D:/software/Qt/6.7.0/mingw_64/include/QtCore -isystem D:/software/Qt/6.7.0/mingw_64/include -isystem "D:/software/Qt/6.7.0/mingw_64/mkspecs/win32-g++"
